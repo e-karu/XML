@@ -1,1 +1,14 @@
-
+<?xml version="1.0" encoding="UTF-8"?>
+<bugReport>
+  <ID>BR-8</ID>
+  <Title>No QR-code in popup window</Title>
+  <Description>No QR-code in popup App dowload in Header of page</Description>
+  <ExpectedResult>QR-code to scan is displayed</ExpectedResult>
+  <ActualResult>No picture of QR-code in popup App download in Header of page</ActualResult>
+  <Severity>Minor</Severity>
+  <Priority>Low</Priority>
+  <Env>OS: Windows 11 21H2 22000.1516</Env>
+  <Steps>1. Open main page www.capital.com. 2. Click on App download in Header</Steps>
+  <Attach>Link on pic</Attach>
+  <Reproduce>1/10</Reproduce>
+</bugReport>
