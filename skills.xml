@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<skills>
+	<theory>Theory of testing</theory>
+	<architecture>Client-server</architecture>
+	<mobile>Mobile testing</mobile>
+	<web>DevTools</web>
+	<emulSimul>Android,iOS</emulSimul>
+	<network>Proxy, VPN</network>
+	<apiTest>JSON, XML</apiTest>
+	<linux>Terminal</linux>
+	<dataBase>SQL</dataBase>
+	<autoTest>Python</autoTest>
+</skills>
